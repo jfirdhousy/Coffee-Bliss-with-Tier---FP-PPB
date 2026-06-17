@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CoffeeBliss" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Stop the framework from splitting a single touch across two windows (for
+             example the screen and an AlertDialog). That split can trigger a native
+             "Splitting motion events requires a down time to be set" crash. This app
+             only uses single taps, so turning split touch off is completely safe. -->
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+</resources>
