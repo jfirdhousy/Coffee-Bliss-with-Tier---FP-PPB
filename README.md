@@ -1,4 +1,4 @@
-# ☕ Coffee Bliss — Membership Card App
+# ☕ Coffee Bliss — [Membership Card App](https://drive.google.com/drive/u/0/folders/1UaFZSnxcLH1PzHpEyF0UR_kwqso5Z3IH)
 
 > Aplikasi Android kartu member digital untuk coffee shop: simpan kartu di ponsel,
 > kumpulkan poin otomatis dari setiap pembelian, lihat riwayat transaksi, naik level
@@ -144,13 +144,20 @@ app/src/main/java/com/example/coffeebliss/
 └── ui/theme/                     Warna, tipografi, branding kopi (Material 3).
 ```
 
-### Cara menjalankan
+### Cara menjalankan repo ini
 
 1. Buka **Android Studio** → *Open* → pilih folder `CoffeeBliss`.
 2. Tunggu Gradle sync (mengunduh library saat pertama kali — perlu internet).
 3. Pilih emulator atau perangkat (Android 7.0 / API 24 atau lebih baru).
 4. Tekan **Run ▶**. Aplikasi terbuka dengan **3 member demo** yang sudah tersimpan.
+5. Atau download .apk-nya di sini
 
 **Urutan baca kode yang disarankan bila masih baru:** `Member.kt` → `MemberDao.kt` →
 `CoffeeBlissRepository.kt` → `CoffeeBlissViewModel.kt` → `HomeScreen.kt` →
 `CoffeeBlissNavigation.kt`.
+
+## 3. Link Download Aplikasi .APK
+[https://drive.google.com/file/d/1RTqSf-BgijF_7UEqIsNBBZUxPDLZKFww/view?usp=sharing](https://drive.google.com/file/d/1RTqSf-BgijF_7UEqIsNBBZUxPDLZKFww/view?usp=sharing)
+## 4. Link YouTube Demo
+
+## 5. Link Blogspot
