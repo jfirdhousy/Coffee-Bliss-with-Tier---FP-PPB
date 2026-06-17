@@ -158,6 +158,8 @@ app/src/main/java/com/example/coffeebliss/
 
 ## 3. Link Download Aplikasi .APK
 [https://drive.google.com/file/d/1RTqSf-BgijF_7UEqIsNBBZUxPDLZKFww/view?usp=sharing](https://drive.google.com/file/d/1RTqSf-BgijF_7UEqIsNBBZUxPDLZKFww/view?usp=sharing)
-## 4. Link YouTube Demo
-
+## 4. Link YouTube
+[Demo](https://youtube.com/shorts/RlP1XKzmwn4?feature=share)
+[Presentasi](https://youtu.be/6wdK3ir2QTM)
 ## 5. Link Blogspot
+[https://jerijeruk.blogspot.com/2026/06/eas-project-coffee-bliss-membership-app.html](https://jerijeruk.blogspot.com/2026/06/eas-project-coffee-bliss-membership-app.html)
